@@ -4,4 +4,4 @@ A project to reverse engineer Legend of Dragoon into a high-level language with 
 
 This repo is focused on testing mod support for the SCDK version of the main decompilation project.
 
-[https://github.com/Legend-of-Dragoon-Modding/Legend-of-Dragoon-Java](Main Decompilation Repo)
+[Main Decompilation Repo](https://github.com/Legend-of-Dragoon-Modding/Legend-of-Dragoon-Java)
